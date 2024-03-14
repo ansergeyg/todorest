@@ -1,0 +1,11 @@
+C:\Users\Besitzer\Code\dotnetprojects\ToDoRest\ToDoRest.Contracts\bin\Debug\net8.0\ToDoRest.Contracts.deps.json
+C:\Users\Besitzer\Code\dotnetprojects\ToDoRest\ToDoRest.Contracts\bin\Debug\net8.0\ToDoRest.Contracts.dll
+C:\Users\Besitzer\Code\dotnetprojects\ToDoRest\ToDoRest.Contracts\bin\Debug\net8.0\ToDoRest.Contracts.pdb
+C:\Users\Besitzer\Code\dotnetprojects\ToDoRest\ToDoRest.Contracts\obj\Debug\net8.0\ToDoRest.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Besitzer\Code\dotnetprojects\ToDoRest\ToDoRest.Contracts\obj\Debug\net8.0\ToDoRest.Contracts.AssemblyInfoInputs.cache
+C:\Users\Besitzer\Code\dotnetprojects\ToDoRest\ToDoRest.Contracts\obj\Debug\net8.0\ToDoRest.Contracts.AssemblyInfo.cs
+C:\Users\Besitzer\Code\dotnetprojects\ToDoRest\ToDoRest.Contracts\obj\Debug\net8.0\ToDoRest.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Besitzer\Code\dotnetprojects\ToDoRest\ToDoRest.Contracts\obj\Debug\net8.0\ToDoRest.Contracts.dll
+C:\Users\Besitzer\Code\dotnetprojects\ToDoRest\ToDoRest.Contracts\obj\Debug\net8.0\refint\ToDoRest.Contracts.dll
+C:\Users\Besitzer\Code\dotnetprojects\ToDoRest\ToDoRest.Contracts\obj\Debug\net8.0\ToDoRest.Contracts.pdb
+C:\Users\Besitzer\Code\dotnetprojects\ToDoRest\ToDoRest.Contracts\obj\Debug\net8.0\ref\ToDoRest.Contracts.dll

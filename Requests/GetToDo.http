@@ -1,0 +1,2 @@
+@id=732dd8d1-20c6-4aed-b1ed-01db4876c426
+GET http://localhost:5000/todo/{{id}}
