@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ToDoRest.Contracts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0cde3b1025f90bbeff4c08c06ce9dc75b9ed864")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1a3e955fb35d5b30215fc4b3a06793de7b9a122")]
 [assembly: System.Reflection.AssemblyProductAttribute("ToDoRest.Contracts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ToDoRest.Contracts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
