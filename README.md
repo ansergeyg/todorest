@@ -8,6 +8,10 @@ You need this REST client to test the api:
 
 https://marketplace.visualstudio.com/items?itemName=humao.rest-client
 
+Check this repo:
+
+https://github.com/AlexanderByndyu?tab=repositories
+
 
 ToDo :)
 
@@ -18,3 +22,5 @@ ToDo :)
 2) Add unit tests
 
 3) Add frontent?
+
+4) CQRS? 
