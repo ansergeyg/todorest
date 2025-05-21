@@ -24,3 +24,5 @@ ToDo :)
 3) Add frontent?
 
 4) CQRS? 
+
+5) Pipeline
